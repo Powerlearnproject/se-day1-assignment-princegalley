@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the application of engineering principles and techniques to the design, development, testing, and maintenance of software systems. It involves a systematic approach to software development, ensuring that software is reliable, efficient, and meets user requirements.
 
@@ -25,7 +24,6 @@ Software Development Life Cycle (SDLC) Phases
 6. Deployment: Release software to production.
 7. Maintenance: Update and fix software issues.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall vs. Agile Methodologies
 - Waterfall: A linear approach, where each phase is completed before moving to the next one. Suitable for projects with well-defined requirements and minimal changes.
@@ -35,13 +33,11 @@ Example scenarios:
 - Waterfall: Developing a simple e-commerce website with well-defined requirements.
 - Agile: Creating a complex software system with multiple stakeholders and changing requirements.
 
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Roles and Responsibilities
 - Software Developer: Designs, develops, and tests software.
 - Quality Assurance Engineer: Ensures software meets requirements and works as expected.
 - Project Manager: Oversees project planning, execution, and delivery.
-
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs) and Version Control Systems (VCS)
@@ -52,13 +48,11 @@ Examples:
 - IDE: Using Eclipse to develop a Java application.
 - VCS: Using Git to manage changes to a team's codebase.
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 - Managing complexity
 - Meeting deadlines
 - Ensuring software quality
 - Communicating with stakeholders
-
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 - Unit Testing: Verifies individual components or units of code.
@@ -66,11 +60,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 - System Testing: Verifies the entire software system.
 - Acceptance Testing: Verifies software meets user requirements.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and optimizing text prompts to effectively interact with AI models, such as language models or chatbots. Well-crafted prompts can improve the accuracy and relevance of AI responses.
-
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of a Vague Prompt
