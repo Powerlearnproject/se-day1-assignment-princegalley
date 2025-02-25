@@ -67,9 +67,7 @@ Prompt engineering is the process of designing and optimizing text prompts to ef
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example of a Vague Prompt
 Vague prompt: "Write a story about a character who learns something new."
-
 Improved prompt: "Write a 500-word story about a 10-year-old girl who learns to play the guitar for the first time. Include her struggles, triumphs, and emotional journey."
-
 The improved prompt is more effective because it provides clear guidance on the story's length, protagonist, plot, and tone.
 
 Importance of Prompt Engineering
